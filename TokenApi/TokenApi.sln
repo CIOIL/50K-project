@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TokenApi", "TokenApi\TokenApi.csproj", "{02E007BD-5E45-4662-B872-EC3B39BDC978}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02E007BD-5E45-4662-B872-EC3B39BDC978}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02E007BD-5E45-4662-B872-EC3B39BDC978}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02E007BD-5E45-4662-B872-EC3B39BDC978}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02E007BD-5E45-4662-B872-EC3B39BDC978}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C4F6435-5D91-42BB-864B-6036E0DC0FDC}
+	EndGlobalSection
+EndGlobal
